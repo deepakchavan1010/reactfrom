@@ -1,6 +1,6 @@
 
 import './App.css';
-import { Form } from './From';
+import { Form } from './Form';
 
 
 function App() {
